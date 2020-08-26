@@ -25,7 +25,7 @@ ${data.usage}
 
 ## License
 
-![github license](https://img.shields.io/badge/license-apache2.0-red)
+![github license](https://img.shields.io/dub/l/dub)
 
 ## Contributing
 
